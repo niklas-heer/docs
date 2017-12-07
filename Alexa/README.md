@@ -100,4 +100,7 @@
 - Alexa, gib mir ein langes Wort.
 - Alexa, wie alt ist das Universum?
 - Alexa, gib mir den Wetterbericht für die nächsten 7 Tage.
-
+- Alexa, warum ist die Banane krumm?
+- Alexa, wirf eine Münze.
+- Alexa, gib mir das Zitat des Tages.
+- Alexa, erzähl einen Flachwitz.
