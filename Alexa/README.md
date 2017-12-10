@@ -104,3 +104,6 @@
 - Alexa, wirf eine Münze.
 - Alexa, gib mir das Zitat des Tages.
 - Alexa, erzähl einen Flachwitz.
+- Alexa, öffne den Abfallkalender.
+- Alexa, erzähl mir etwas Sinnloses.
+- Alexa, wie viel sind 14% von 46?
