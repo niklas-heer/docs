@@ -107,3 +107,4 @@
 - Alexa, öffne den Abfallkalender.
 - Alexa, erzähl mir etwas Sinnloses.
 - Alexa, wie viel sind 14% von 46?
+- Alexa, Schnick, Schnack, Schnuck.
