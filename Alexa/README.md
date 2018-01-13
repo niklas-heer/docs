@@ -112,3 +112,7 @@
 - Alexa, Alarmstufe Rot
 - Alexa, Selbstzerstörung.
 - Alexa, gute Nacht.
+- Alexa, wird es an diesem Wochenende regnen?
+- Alexa, gib mir eine Runde Mitleid.
+- Alexa, nenn mir ein Filmzitat.
+- Alexa, sprich mir nach <Text der nachgesprochen wird>
