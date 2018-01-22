@@ -116,3 +116,5 @@
 - Alexa, gib mir eine Runde Mitleid.
 - Alexa, nenn mir ein Filmzitat.
 - Alexa, sprich mir nach <Text der nachgesprochen wird>
+- Alexa, kannst du beatboxen?
+- Alexa, erzähl einen Computerwitz.
