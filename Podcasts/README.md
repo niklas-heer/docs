@@ -68,3 +68,9 @@ Everyone makes mistakes and this is a show about them. Insightful yet irreverent
 
 ### :uk: [Sundays with Solus](http://pca.st/nZ4R)
 A bi-weekly podcast covering the latest news from the Solus project.
+
+### :us [Dan Carlin's Hardcore History: Addendum](http://pca.st/O3Nv)
+The short version of the Hardcore History podcast with interviews, musings and extra material.
+
+### :us: [Python Bytes](http://pca.st/pbytes)
+Python Bytes is a weekly podcast hosted by Michael Kennedy and Brian Okken. The show is a short discussion on the headlines and noteworthy news in the Python, developer, and data science space.
