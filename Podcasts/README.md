@@ -69,7 +69,7 @@ Everyone makes mistakes and this is a show about them. Insightful yet irreverent
 ### :uk: [Sundays with Solus](http://pca.st/nZ4R)
 A bi-weekly podcast covering the latest news from the Solus project.
 
-### :us [Dan Carlin's Hardcore History: Addendum](http://pca.st/O3Nv)
+### :us: [Dan Carlin's Hardcore History: Addendum](http://pca.st/O3Nv)
 The short version of the Hardcore History podcast with interviews, musings and extra material.
 
 ### :us: [Python Bytes](http://pca.st/pbytes)
