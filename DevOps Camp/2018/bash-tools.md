@@ -1,0 +1,36 @@
+## bash tools
+
+- `ncdu` - better df
+- `glances` - modern htop
+- `hub` - cli tool for github
+- `lnav` - log viewer
+- `goaccess` - log viewer for webservers
+- `task warrior` - cli task management
+- `gopass` - gpg pw manager (`pass` fork)
+- `mosh` - ssh client over UDP
+- `silversurfer`/`platinum searcher` - ack on steroids
+- [`asciinema`](https://asciinema.org/) - bash session recording
+- `tldr` - manpages in short
+- `info` - complementary to `man`
+- `exa` - ls replacement written in rust
+- `dotbot`/[`homeshick`](https://github.com/andsens/homeshick) - dotfiles management
+- `apt-dater` - manage/update apt versions
+- [`etckeeper`](http://etckeeper.branchable.com/) - lets you keep /etc under version control.
+- [`wireguard`](https://www.wireguard.com/) - fast, modern, secure VPN tunnel
+- `bdup`/`snapper` - btrfs deduplication
+- `borg`/`duplicity` - backup tool
+- `syncthing` - p2p sync tool
+- [`direnv`](https://direnv.net/) -> environment switcher for the shell (new `autoenv`)
+- [`skim`](https://github.com/lotabout/skim) - fuzzy finder written in rust
+- `autojump` - terminal navigation
+- `lrzip` - extreme compression
+- `fd` - modern alternative to `find`
+- `proxyjump` - ssh connection forwarding
+- `mas` - mac appstore cli
+- `vuls` - check vulnerabilities for pkgs
+- `ngrok` - give access to locale ports also into the public internet
+- `xip.io` - the same as ngrok but for only inside networks
+- [`doitlive`](https://doitlive.readthedocs.io/en/latest/) - tool for live presentations in the terminal
+- `beat` - tag audio files
+- [`nix`](https://github.com/NixOS/nix) - purely functional package manager
+- `progress` - indicator for processes to look at after the fact
